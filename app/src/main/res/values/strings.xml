@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blockchain at Berkeley App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <color name="white">#F2F6FA</color>
+    <color name="actionBarColor">#FFFFFF</color>
+    <color name="font">#4F6D88</color>
+    <color name="gray">#FFFFFF</color>
+    <color name="selected">#58ABFE</color>
+    <color name="ok">#B8C2CA</color>
+</resources>
